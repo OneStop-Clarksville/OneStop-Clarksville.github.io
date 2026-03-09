@@ -1,0 +1,17 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+header {
+    background-color: #1e3a8a; /* Darker blue */
+}
+nav {
+    background-color: #1f2937;
+}
+.service {
+    background-color: #1f2937;
+    border: 1px solid #374151;
+}
+footer {
+    background-color: #1f2937;
+}
